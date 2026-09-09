@@ -1,4 +1,4 @@
-# Codex Agent 标准包
+# Codex Agent 标准包(自用）
 
 `01-Blank-Agent` 是完整空白母版。当前专业角色包括：
 
