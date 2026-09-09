@@ -1,4 +1,4 @@
-# Codex Agent 标准包(自用）
+# Codex Agent 标准包
 
 `01-Blank-Agent` 是完整空白母版。当前专业角色包括：
 
@@ -7,7 +7,9 @@
 - `04-Code-Implementation-Engineer`：跨语言代码实现；
 - `05-Game-Art-Specialist`：游戏美术资产生产；
 - `06-Game-Art-Director`：游戏美术指导与质量门禁；
-- `07-Godot-Game-Designer`：Godot 4.x、2D与卡牌策略优先的游戏设计。
+- `07-Godot-Game-Designer`：Godot 4.x、2D与卡牌策略优先的游戏设计；
+- `08-Godot-Game-QA-Playtest-Analyst`：Godot真实试玩、平衡验证与可玩版本门禁；
+- `09-Godot-Game-Audio-Specialist`：Godot游戏音效、环境音、音乐和批准语音生产。
 
 各标准角色包保留母版的 22 个文件和对应路径。先看各包 MODULES.md 区分必需与可选，再读取 AGENT.md 获取职责和调用边界。
 
